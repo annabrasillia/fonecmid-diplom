@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5c8bc424-3a81-4ed3-be17-7a5f98d9cb93">
+  <name>ВКМ_РасчетУправленческойЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расчет управленческой зарплаты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.РасчетЗарплаты</picture>
+  </picture>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>Document.ВКМ_НачислениеЗарплаты</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>AccumulationRegister.ВКМ_УчетОтпусков</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафиков</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>InformationRegister.ВКМ_ГрафикОтпусков</content>
+  <content>Role.ВКМ_РасчетЗарплатыИОтпуск</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Role.ВКМ_ЧтениеОтчетаВыработкаСпециалистов</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Role.ВКМ_ЧтениеОтчетовКадровика</content>
+  <content>Catalog.Пользователи</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>CommandGroup.ВКМ_Настройки</content>
+  <content>CommandGroup.ВКМ_Документы</content>
+  <content>CommandGroup.ВКМ_Справочники</content>
+  <content>CommandGroup.ВКМ_СмТакже</content>
+  <content>CommandGroup.ВКМ_РегистрыРасчета</content>
+  <content>CommandGroup.ВКМ_ПланыВидовРасчета</content>
+</mdclass:Subsystem>

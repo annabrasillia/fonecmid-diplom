@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e20c16ee-0531-4072-94a0-52277d4983e6">
+  <producedTypes>
+    <objectType typeId="5262061d-d300-4b25-9598-b5bde7f5f328" valueTypeId="0562b112-a54d-4da6-8786-99f81e7448e1"/>
+    <refType typeId="80161e90-e44d-4b1c-b151-5257a9df2149" valueTypeId="3aa26bc8-43ca-4670-bb8a-01dcf65d9e61"/>
+    <selectionType typeId="d890c79d-b9c7-454d-b773-71a8b76837b5" valueTypeId="91c9e8ad-4286-4ebe-8ce7-ea32d341ffb8"/>
+    <listType typeId="77b1907e-0c56-4a1a-b73a-eb0ae74839fa" valueTypeId="1dbdffb0-3c77-4c01-9a97-c9b0f0a5f3d2"/>
+    <managerType typeId="54ebac59-8b60-4b8e-b2e3-5501da14173c" valueTypeId="2ac5cff2-ac6a-4275-b281-0e4aa001acd0"/>
+  </producedTypes>
+  <name>ВКМ_ГрафикиРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Графики работы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>График работы</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Графики работы</value>
+  </listPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

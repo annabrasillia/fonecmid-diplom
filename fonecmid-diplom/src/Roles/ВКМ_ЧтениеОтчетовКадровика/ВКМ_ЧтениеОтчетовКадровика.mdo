@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7816c7d3-c4bf-414e-be5e-2a8db98a8659">
+  <name>ВКМ_ЧтениеОтчетовКадровика</name>
+  <synonym>
+    <key>ru</key>
+    <value>Чтение отчетов кадровика</value>
+  </synonym>
+</mdclass:Role>

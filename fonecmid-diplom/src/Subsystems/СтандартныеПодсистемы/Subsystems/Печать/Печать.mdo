@@ -56,5 +56,6 @@
   <content>CommonTemplate.ПустойМакетDOCX</content>
   <content>CommonForm.ПечатьДокументовOfficeOpen</content>
   <content>CommonForm.РедактированиеДокументаOfficeOpen</content>
+  <content>Document.РеализацияТоваровУслуг</content>
   <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
 </mdclass:Subsystem>
