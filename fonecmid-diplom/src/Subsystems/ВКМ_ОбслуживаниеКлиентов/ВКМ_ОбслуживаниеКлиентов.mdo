@@ -34,4 +34,5 @@
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Role.ВКМ_ЧтениеОтчетовИТБухгалтера</content>
   <content>CommandGroup.ВКМ_Настройки</content>
+  <content>Catalog.Контрагенты</content>
 </mdclass:Subsystem>
