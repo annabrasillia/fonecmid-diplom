@@ -3,6 +3,10 @@
   <items xsi:type="form:FormField">
     <name>Диаграмма</name>
     <id>38</id>
+    <title>
+      <key>ru</key>
+      <value>График планируемых отпусков</value>
+    </title>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -44,6 +48,10 @@
         <items xsi:type="form:FormField">
           <name>ДиаграммаТаблицаТочка</name>
           <id>54</id>
+          <title>
+            <key>ru</key>
+            <value>Сотрудник</value>
+          </title>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
